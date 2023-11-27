@@ -1,0 +1,166 @@
+.fix-width {
+  max-width: 930px;
+  margin: auto;
+}
+.row {
+  max-width: 930px;
+  margin: auto;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  font-family: "Work Sans", sans-serif;
+}
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  color: #222222;
+}
+.all-navber-items ul {
+  margin-left: auto;
+  list-style: none;
+}
+.all-navber-items ul li {
+  margin-right: 20px;
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+.all-navber-items ul li a {
+  display: inline-block;
+  text-decoration: none;
+  color: #222222;
+}
+.all-navber-items ul li a span {
+  font-size: 10px;
+  position: relative;
+  bottom: 2px;
+}
+.download-items {
+  margin-top: 113px;
+}
+
+.download-header h1 {
+  margin-right: 20px;
+  font-weight: 400;
+}
+.download-header h1 span {
+  font-weight: 700;
+}
+.download-itmes-other {
+  margin-top: 50px;
+}
+.download-itmes-other p {
+  font-size: 21px;
+  line-height: 2.3rem;
+}
+.download-button .button-1 {
+  color: white;
+}
+.download-ultra-edit-image img {
+  margin-right: 20px;
+}
+.download-ultra-edit-text h6 span {
+  font-size: 15px;
+}
+.download-ultra-edit-text h6 {
+  font-size: 20px;
+}
+.version-items {
+  background-color: #f9f9f9;
+  height: auto;
+}
+.language p {
+  font-size: 13px;
+}
+.blogs {
+  background-color: #222222;
+}
+.blog-text,
+h4 {
+  color: white;
+}
+.para-text {
+  color: white;
+}
+.blog-form .input-email {
+}
+.form-button button {
+  display: block;
+  width: 100%;
+  color: white;
+}
+.form-button button:hover {
+  color: red;
+}
+.blog-form .card {
+  width: 321px;
+  margin-left: 121px;
+}
+.feature-text h5 {
+  color: white;
+}
+.feature-text p {
+  color: white;
+  font-size: 14px;
+}
+.feature-text p span {
+  color: aqua;
+}
+.footer-items h4 {
+  color: #222222;
+  font-size: 16px;
+  margin-bottom: 22px;
+  font-weight: bolder;
+}
+.footer-items .footer-menu {
+  list-style: none;
+  margin-left: 0px;
+  padding-left: 0;
+}
+
+.footer-items .footer-menu li {
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+.footer-items .footer-menu li a {
+  text-decoration: none;
+  display: inline-block;
+  color: #222222;
+}
+.footer-items h4 {
+}
+.footer-items p {
+  font-size: 12px;
+}
+.footer-items button {
+  display: block;
+  width: 100%;
+  color: white;
+  font-weight: bolder;
+}
+.footer-section-menu-second {
+  list-style: none;
+}
+.footer-section-menu-second li {
+  margin-left: 20px;
+}
+.footer-section-menu-second li a {
+  text-decoration: none;
+  display: inline-block;
+}
+.footer-section-menu-second li a span {
+  color: #222222;
+  font-size: 23px;
+  display: inline-block;
+  transition: 0.4s;
+}
+.footer-copy-right p {
+  font-size: 15px;
+}
+.footer-section-menu-second li a span:hover {
+  transform: scale(1.5);
+}

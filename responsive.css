@@ -1,0 +1,116 @@
+@media (max-width: 992px) {
+  .blog-form .card {
+    width: 321px;
+    margin-left: 0;
+  }
+  .footer-items-all-second {
+    flex-direction: column;
+  }
+  .footer-image img {
+    width: 341px;
+    margin-bottom: 58px;
+  }
+  .footer-copy-right p {
+    text-align: center;
+  }
+  .footer-section-menu-second li a span {
+    font-size: 44px;
+  }
+}
+
+@media (max-width: 961px) {
+  .downltra-editoad-ul {
+    padding: 33px;
+  }
+  .feature-text.mb-4 {
+    padding: 20px;
+  }
+  .footer-section-menu-second li a span {
+    font-size: 44px;
+  }
+}
+
+@media (max-width: 767px) {
+  .download-items {
+    margin-top: 50px;
+    flex-direction: column;
+  }
+  .download-header h1 {
+    margin-bottom: 33px;
+    box-sizing: border-box;
+  }
+  .download-image img {
+    width: 179px;
+    height: auto;
+  }
+  .download-itmes-other p {
+    font-size: 18px;
+  }
+  .blog-form .card {
+    width: 100%;
+  }
+  .card-text {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 490px) {
+  .footer-items-all-second {
+    flex-direction: column;
+  }
+  .footer-image img {
+    width: 270px;
+    margin-bottom: 58px;
+  }
+  .footer-copy-right p {
+    text-align: center;
+  }
+  .footer-section-menu-second li a span {
+    font-size: 24px;
+  }
+  .download-header h1 {
+    font-size: 25px;
+    width: 100%;
+    /* padding: 10px; */
+  }
+  .download-image img {
+    width: 140px;
+  }
+  .download-itmes-other p {
+    font-size: 20px;
+    padding: 20px;
+  }
+}
+@media (max-width: 440px) {
+  .download-header h1 {
+    margin-left: 18px;
+  }
+}
+
+@media (max-width: 418px) {
+  .download-header h1 {
+    font-size: 21px;
+  }
+  .download-image img {
+    width: 120px;
+  }
+  .download-itmes-other {
+    margin-top: 19px;
+  }
+  .download-itmes-other {
+    line-height: 1rem;
+    font-size: 15px;
+  }
+  .footer-image img {
+    width: 220px;
+    margin-bottom: 58px;
+  }
+  .footer-section-menu-second li {
+    margin-left: 16px;
+  }
+}
+@media (max-width: 370px) {
+  .download-header h1 {
+    margin-left: 15px;
+  }
+}

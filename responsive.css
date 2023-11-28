@@ -109,6 +109,12 @@
     margin-left: 16px;
   }
 }
+@media (max-width: 410px) {
+  .download-header h1 {
+    margin-left: 5px;
+    font-size: 23px;
+  }
+}
 @media (max-width: 370px) {
   .download-header h1 {
     margin-left: 5px;
